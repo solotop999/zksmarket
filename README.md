@@ -11,4 +11,5 @@ const hexData = => NHẬP HEX DATA, LẤY TẠI WEB MARKET
 `node start_Inscriptions.js`
 
 3. kết quả:
+
 ![image](https://github.com/solotop999/zksmarket/assets/24671262/3be8e125-4aa2-497d-920c-8e44d553d32b)
